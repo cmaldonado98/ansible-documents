@@ -5,4 +5,3 @@
       file:
         state: absent
         path: "/home/cache"
----
