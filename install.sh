@@ -4,7 +4,7 @@
 
   echo Instalación de varios archivos
 
-  cd ../../
+  cd ../../..
 
   cd home
 
