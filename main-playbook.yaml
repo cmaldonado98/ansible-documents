@@ -1,5 +1,8 @@
 ---
-- name: Clean artifact path
-  file:
-    state: absent
-    path: "/home/cache"
+- hosts: localhost
+  tasks:      
+    - name: Clean artifact path
+      file:
+        state: absent
+        path: "/home/cache"
+---
