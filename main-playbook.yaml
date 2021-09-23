@@ -2,4 +2,4 @@
 - name: Clean artifact path
   file:
     state: absent
-    path: "./home/cache1.sh"
+    path: "/home/cache"

@@ -7,6 +7,10 @@
   cd ../../..
 
   cd home
+  
+  sudo mkdir cache
+
+  cd cache
 
   sudo touch cache1.sh
   sudo touch cache2.sh
